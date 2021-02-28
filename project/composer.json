@@ -1,0 +1,21 @@
+{
+    "name": "will/design",
+    "description": "brief version of php design pattern",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "will",
+            "email": "826895143@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Design\\": "src/"
+        },
+        "files": [
+            "src\\Support\\helper.php"
+        ]
+    }
+}
