@@ -23,6 +23,5 @@
     - composer.json
 
 ## 欢迎交流
-- QQ: 826895143
 - 微信: aurorawillbe
 - 邮箱: 826895143@qq.com
